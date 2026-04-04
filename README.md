@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Building+high-throughput+systems+that+scale+to+millions;Optimizing+ML+pipelines+from+training+to+inference;Turning+complex+distributed+problems+into+elegant+solutions)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=70&lines=Building+high-throughput+systems+that+scale+to+millions;Optimizing+ML+pipelines+from+training+to+inference;Turning+complex+distributed+problems+into+elegant+solutions" alt="Typing SVG"/>
 
 <br/>
 
@@ -15,6 +15,8 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## &nbsp;`$ whoami`
 
 ```js
@@ -23,7 +25,6 @@ const shiva = {
     current    : ["Software Developer @ BeOne Medicines", "Graduate TA @ UCF"],
     previous   : "Software Engineer @ Baantics Solutions — promoted 6 months early",
     interests  : ["distributed systems", "ML infrastructure", "GPU optimization", "cloud-native architecture"],
-    seeking    : "New Grad SWE roles — systems, infrastructure, ML platform",
 };
 ```
 
@@ -31,7 +32,7 @@ const shiva = {
 >
 > I care about performance down to the profiler trace. If there's a bottleneck, I'll find it.
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## &nbsp;⚡ Tech Arsenal
 
@@ -91,6 +92,14 @@ const shiva = {
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## &nbsp;🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivareddy42&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+</div>
+
 <br/>
 
 ## &nbsp;📊 GitHub Analytics
@@ -110,7 +119,7 @@ const shiva = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivareddy42&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb" alt="Contribution Graph"/>
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## &nbsp;🏗️ Featured Work
 
@@ -143,11 +152,11 @@ const shiva = {
   </picture>
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
----
+<br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 
@@ -158,7 +167,7 @@ const shiva = {
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Let's_Talk-shivareddy761005@gmail.com-1f6feb?style=for-the-badge)](mailto:shivareddy761005@gmail.com)
+<a href="mailto:shivareddy761005@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-shivareddy761005@gmail.com-1f6feb?style=for-the-badge" alt="Email"/></a>
 
 </div>
 

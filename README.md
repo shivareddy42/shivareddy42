@@ -21,20 +21,20 @@
 
 ```js
 const shiva = {
-    education  : "MS Computer Science @ UCF â 4.0 GPA â May 2026",
+    education  : "MS Computer Science @ UCF — 4.0 GPA — May 2026",
     current    : ["Software Developer @ BeOne Medicines", "Graduate TA @ UCF"],
-    previous   : "Software Engineer @ Baantics Solutions â promoted 6 months early",
+    previous   : "Software Engineer @ Baantics Solutions — promoted 6 months early",
     interests  : ["distributed systems", "ML infrastructure", "GPU optimization", "cloud-native architecture"],
 };
 ```
 
-> I build **backend systems and ML infrastructure** that handle real production load â the kind where a 50ms regression means thousands of failed requests. At Baantics I cut PyTorch training time by **42%**, reduced inference latency by **54%**, and shipped a pipeline processing **2M+ records/day**. Currently designing enterprise integration systems at BeOne Medicines while finishing my MS at UCF.
+> I build **backend systems and ML infrastructure** that handle real production load — the kind where a 50ms regression means thousands of failed requests. At Baantics I cut PyTorch training time by **42%**, reduced inference latency by **54%**, and shipped a pipeline processing **2M+ records/day**. Currently designing enterprise integration systems at BeOne Medicines while finishing my MS at UCF.
 >
 > I care about performance down to the profiler trace. If there's a bottleneck, I'll find it.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## &nbsp;â¡ Tech Arsenal
+## &nbsp;⚡ Tech Arsenal
 
 <div align="center">
 
@@ -94,7 +94,7 @@ const shiva = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## &nbsp;ð GitHub Trophies
+## &nbsp;🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shivareddy42&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
@@ -102,7 +102,7 @@ const shiva = {
 
 <br/>
 
-## &nbsp;ð GitHub Analytics
+## &nbsp;📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivareddy42&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="GitHub Stats"/>
@@ -121,7 +121,7 @@ const shiva = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## &nbsp;ðï¸ Featured Work
+## &nbsp;🏗️ Featured Work
 
 <div align="center">
 
@@ -142,7 +142,7 @@ const shiva = {
 
 <br/>
 
-## &nbsp;ð Contribution Snake
+## &nbsp;🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -162,7 +162,7 @@ const shiva = {
 
 <br/>
 
-*Currently open to **New Grad Software Engineering** opportunities â particularly in systems, infrastructure, and ML platforms.*
+*Currently open to **New Grad Software Engineering** opportunities -- particularly in systems, infrastructure, and ML platforms.*
 *Let's build something that matters.*
 
 <br/>

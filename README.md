@@ -21,7 +21,7 @@
 
 ```js
 const shiva = {
-    education  : "MS Computer Science @ UCF | 4.0 GPA | May 2026",
+    education  : "MS Computer Science @ UCF, 4.0 GPA, May 2026",
     current    : ["Software Developer @ BeOne Medicines", "Graduate TA @ UCF"],
     previous   : "Software Engineer @ Baantics Solutions",
     interests  : ["distributed systems", "ML infrastructure", "GPU optimization", "cloud-native architecture"],
@@ -113,11 +113,11 @@ const shiva = {
 <div align="center">
 
 | Repository | Description |
-|:--|:--|
-| [🔗 **distributed-ids**](https://github.com/shivareddy42/distributed-ids) | Distributed IoT Intrusion Detection System, federated ML pipeline with anomaly detection across edge nodes |
-| [🔗 **dreamforge**](https://github.com/shivareddy42/dreamforge) | AI Image Generation with Stable Diffusion, custom Gradio interface deployed on HuggingFace Spaces |
-| [🔗 **ml-training-profiler**](https://github.com/shivareddy42/ml-training-profiler) | GPU Training Pipeline Profiler, PyTorch + mixed precision + torch.compile optimization benchmarks |
-| [🔗 **inference-server**](https://github.com/shivareddy42/inference-server) | Low-Latency ML Inference Server, FastAPI + TensorRT + dynamic batching + Kubernetes deployment |
+|:---|:---|
+| [🔐 **distributed-ids**](https://github.com/shivareddy42/distributed-ids) | Distributed IoT Intrusion Detection System with federated ML pipeline |
+| [🎨 **dreamforge**](https://github.com/shivareddy42/dreamforge) | AI Image Generation with Stable Diffusion + custom Gradio interface |
+| [📊 **ml-training-profiler**](https://github.com/shivareddy42/ml-training-profiler) | GPU Training Pipeline Profiler with PyTorch + mixed precision benchmarks |
+| [⚡ **inference-server**](https://github.com/shivareddy42/inference-server) | Low-Latency ML Inference Server with FastAPI + TensorRT + dynamic batching |
 
 </div>
 

@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Shiva%20Reddy%20Peddireddy&fontColor=e6edf3&fontSize=42&fontAlignY=35&desc=Systems%20Engineer%20%7C%20ML%20Infrastructure%20%7C%20Distributed%20Systems&descSize=16&descAlignY=55&descAlign=50&animation=fadeIn"/>
+<a href="https://github.com/shivareddy42"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Shiva%20Reddy%20Peddireddy&fontColor=e6edf3&fontSize=42&fontAlignY=35&desc=Systems%20Engineer%20%7C%20ML%20Infrastructure%20%7C%20Distributed%20Systems&descSize=16&descAlignY=55&descAlign=50&animation=fadeIn"/></a>
 
 <div align="center">
 
@@ -94,20 +94,7 @@ const shiva = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## &nbsp;🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivareddy42&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
 ## &nbsp;📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivareddy42&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy42&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivareddy42&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58" alt="GitHub Streak"/>
@@ -126,16 +113,16 @@ const shiva = {
 <div align="center">
 
 <a href="https://github.com/shivareddy42/distributed-ids">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy42&repo=distributed-ids&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy42&repo=distributed-ids&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
 </a>
 <a href="https://github.com/shivareddy42/dreamforge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy42&repo=dreamforge&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy42&repo=dreamforge&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
 </a>
 <a href="https://github.com/shivareddy42/ml-training-profiler">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy42&repo=ml-training-profiler&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy42&repo=ml-training-profiler&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
 </a>
 <a href="https://github.com/shivareddy42/inference-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy42&repo=inference-server&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy42&repo=inference-server&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
 </a>
 
 </div>
@@ -162,7 +149,7 @@ const shiva = {
 
 <br/>
 
-*Currently open to **New Grad Software Engineering** opportunities -- particularly in systems, infrastructure, and ML platforms.*
+*Currently open to **New Grad Software Engineering** opportunities — particularly in systems, infrastructure, and ML platforms.*
 *Let's build something that matters.*
 
 <br/>
@@ -171,4 +158,4 @@ const shiva = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer"/>
+<a href="https://github.com/shivareddy42"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer"/></a>

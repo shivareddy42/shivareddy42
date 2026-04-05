@@ -21,14 +21,14 @@
 
 ```js
 const shiva = {
-    education  : "MS Computer Science @ UCF — 4.0 GPA — May 2026",
+    education  : "MS Computer Science @ UCF | 4.0 GPA | May 2026",
     current    : ["Software Developer @ BeOne Medicines", "Graduate TA @ UCF"],
-    previous   : "Software Engineer @ Baantics Solutions — promoted 6 months early",
+    previous   : "Software Engineer @ Baantics Solutions",
     interests  : ["distributed systems", "ML infrastructure", "GPU optimization", "cloud-native architecture"],
 };
 ```
 
-> I build **backend systems and ML infrastructure** that handle real production load — the kind where a 50ms regression means thousands of failed requests. At Baantics I cut PyTorch training time by **42%**, reduced inference latency by **54%**, and shipped a pipeline processing **2M+ records/day**. Currently designing enterprise integration systems at BeOne Medicines while finishing my MS at UCF.
+> I build **backend systems and ML infrastructure** that handle real production load, the kind where a 50ms regression means thousands of failed requests. At Baantics I cut PyTorch training time by **42%**, reduced inference latency by **54%**, and shipped a pipeline processing **2M+ records/day**. Currently designing enterprise integration systems at BeOne Medicines while finishing my MS at UCF.
 >
 > I care about performance down to the profiler trace. If there's a bottleneck, I'll find it.
 
@@ -112,18 +112,12 @@ const shiva = {
 
 <div align="center">
 
-<a href="https://github.com/shivareddy42/distributed-ids">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy42&repo=distributed-ids&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
-</a>
-<a href="https://github.com/shivareddy42/dreamforge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy42&repo=dreamforge&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
-</a>
-<a href="https://github.com/shivareddy42/ml-training-profiler">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy42&repo=ml-training-profiler&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
-</a>
-<a href="https://github.com/shivareddy42/inference-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy42&repo=inference-server&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
-</a>
+| Repository | Description |
+|:--|:--|
+| [🔗 **distributed-ids**](https://github.com/shivareddy42/distributed-ids) | Distributed IoT Intrusion Detection System, federated ML pipeline with anomaly detection across edge nodes |
+| [🔗 **dreamforge**](https://github.com/shivareddy42/dreamforge) | AI Image Generation with Stable Diffusion, custom Gradio interface deployed on HuggingFace Spaces |
+| [🔗 **ml-training-profiler**](https://github.com/shivareddy42/ml-training-profiler) | GPU Training Pipeline Profiler, PyTorch + mixed precision + torch.compile optimization benchmarks |
+| [🔗 **inference-server**](https://github.com/shivareddy42/inference-server) | Low-Latency ML Inference Server, FastAPI + TensorRT + dynamic batching + Kubernetes deployment |
 
 </div>
 
@@ -149,7 +143,7 @@ const shiva = {
 
 <br/>
 
-*Currently open to **New Grad Software Engineering** opportunities — particularly in systems, infrastructure, and ML platforms.*
+*Currently open to **New Grad Software Engineering** opportunities, particularly in systems, infrastructure, and ML platforms.*
 *Let's build something that matters.*
 
 <br/>

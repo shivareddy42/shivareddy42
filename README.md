@@ -143,7 +143,6 @@ const shiva = {
 
 <br/>
 
-*Currently open to **New Grad Software Engineering** opportunities, particularly in systems, infrastructure, and ML platforms.*
 *Let's build something that matters.*
 
 <br/>

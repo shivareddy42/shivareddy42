@@ -1,0 +1,120 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="40" x2="1120" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#101B32"/>
+      <stop offset="1" stop-color="#0E1525"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="330" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111A2C" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#0B1324" stop-opacity="0.82"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="190" y1="130" x2="540" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#61DAFB"/>
+      <stop offset="1" stop-color="#1F6FEB"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(240 120) rotate(36) scale(260 190)">
+      <stop stop-color="#1F6FEB" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 300) rotate(-20) scale(280 180)">
+      <stop stop-color="#61DAFB" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#61DAFB" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#DDE7F4" stroke-opacity="0.06"/>
+    </pattern>
+    <filter id="shadow" x="-40" y="-40" width="1400" height="500" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#020611" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#glowA)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#glowB)"/>
+
+  <g opacity="0.85">
+    <path d="M775 82L1118 82" stroke="#DDE7F4" stroke-opacity="0.08"/>
+    <path d="M775 212L1118 212" stroke="#DDE7F4" stroke-opacity="0.08"/>
+    <path d="M775 342L1118 342" stroke="#DDE7F4" stroke-opacity="0.08"/>
+    <path d="M775 82V342" stroke="#DDE7F4" stroke-opacity="0.08"/>
+    <path d="M888 82V342" stroke="#DDE7F4" stroke-opacity="0.08"/>
+    <path d="M1002 82V342" stroke="#DDE7F4" stroke-opacity="0.08"/>
+    <path d="M1118 82V342" stroke="#DDE7F4" stroke-opacity="0.08"/>
+  </g>
+
+  <rect x="44" y="38" width="136" height="32" rx="16" fill="#0F1A2E" stroke="#37517E" stroke-opacity="0.75"/>
+  <text x="65" y="59" fill="#8FB7FF" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="0.2em">SYSTEM PROFILE</text>
+
+  <text x="52" y="118" fill="#F7FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Shiva Reddy</text>
+  <text x="52" y="164" fill="#F7FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Peddireddy</text>
+
+  <text x="54" y="210" fill="#9FB4D0" font-family="Segoe UI, Arial, sans-serif" font-size="21">Distributed systems  |  ML infrastructure  |  Performance engineering</text>
+
+  <text x="54" y="254" fill="#D9E6F7" font-family="Segoe UI, Arial, sans-serif" font-size="19">
+    I build production systems where latency, throughput, and model quality all have
+  </text>
+  <text x="54" y="284" fill="#D9E6F7" font-family="Segoe UI, Arial, sans-serif" font-size="19">
+    to hold up at the same time. Clean architecture matters, but measured performance matters more.
+  </text>
+
+  <g filter="url(#shadow)">
+    <rect x="789" y="52" width="366" height="318" rx="26" fill="url(#card)" stroke="#243A66" stroke-opacity="0.9"/>
+  </g>
+
+  <text x="820" y="92" fill="#8FB7FF" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="0.22em">LIVE SIGNALS</text>
+
+  <g>
+    <rect x="816" y="116" width="96" height="76" rx="18" fill="#0D1630" stroke="#294D94"/>
+    <text x="835" y="144" fill="#74D4FF" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="0.18em">TRAINING</text>
+    <text x="835" y="178" fill="#F7FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">42%</text>
+    <text x="835" y="196" fill="#9FB4D0" font-family="Segoe UI, Arial, sans-serif" font-size="12">faster</text>
+  </g>
+
+  <g>
+    <rect x="925" y="116" width="96" height="76" rx="18" fill="#0D1630" stroke="#294D94"/>
+    <text x="945" y="144" fill="#74D4FF" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="0.18em">LATENCY</text>
+    <text x="945" y="178" fill="#F7FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">54%</text>
+    <text x="945" y="196" fill="#9FB4D0" font-family="Segoe UI, Arial, sans-serif" font-size="12">lower</text>
+  </g>
+
+  <g>
+    <rect x="1034" y="116" width="96" height="76" rx="18" fill="#0D1630" stroke="#294D94"/>
+    <text x="1052" y="144" fill="#74D4FF" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="0.18em">THROUGHPUT</text>
+    <text x="1050" y="178" fill="#F7FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">2M+</text>
+    <text x="1050" y="196" fill="#9FB4D0" font-family="Segoe UI, Arial, sans-serif" font-size="12">records/day</text>
+  </g>
+
+  <text x="818" y="232" fill="#F7FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">What this profile optimizes for</text>
+
+  <g fill="#D9E6F7" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+    <text x="820" y="264">01  distributed backends that do not fold under load</text>
+    <text x="820" y="292">02  ML serving and training systems guided by real telemetry</text>
+    <text x="820" y="320">03  cloud-native systems with observability built in, not bolted on</text>
+  </g>
+
+  <path d="M816 346H1128" stroke="#203356"/>
+
+  <g>
+    <circle cx="120" cy="349" r="6" fill="#61DAFB"/>
+    <circle cx="174" cy="349" r="6" fill="#1F6FEB"/>
+    <circle cx="228" cy="349" r="6" fill="#A7D8FF"/>
+    <text x="250" y="354" fill="#9FB4D0" font-family="Segoe UI, Arial, sans-serif" font-size="13">Signal: stable under scale</text>
+  </g>
+
+  <g opacity="0.95">
+    <path d="M500 346C558 308 616 320 674 266C708 235 730 216 762 214" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="500" cy="346" r="7" fill="#61DAFB"/>
+    <circle cx="580" cy="316" r="7" fill="#7BCBFF"/>
+    <circle cx="674" cy="266" r="7" fill="#9CD2FF"/>
+    <circle cx="762" cy="214" r="8" fill="#1F6FEB"/>
+    <circle cx="762" cy="214" r="20" stroke="#1F6FEB" stroke-opacity="0.24"/>
+  </g>
+
+  <rect x="56" y="326" width="126" height="30" rx="15" fill="#0D1730" stroke="#294D94"/>
+  <text x="79" y="345" fill="#A7C2E6" font-family="Segoe UI, Arial, sans-serif" font-size="13">mscs @ ucf</text>
+
+  <rect x="194" y="326" width="182" height="30" rx="15" fill="#0D1730" stroke="#294D94"/>
+  <text x="219" y="345" fill="#A7C2E6" font-family="Segoe UI, Arial, sans-serif" font-size="13">software developer @ beone</text>
+</svg>

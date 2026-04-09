@@ -118,6 +118,7 @@ const shiva = {
 
 | Repository | Description |
 |:--|:--|
+| [🎬 **mirage**](https://github.com/shivareddy42/mirage) | End-to-end AI video generation pipeline: LLM scene planning → Stable Diffusion keyframes (batched CUDA, FP16, torch.compile) → RIFE interpolation → FFmpeg assembly. **7.2x speedup**. Gradio UI + Redis queue |
 | [🔗 **inference-server**](https://github.com/shivareddy42/inference-server) | Low-latency model serving with FastAPI, dynamic batching, multi-backend support, and K8s deployment |
 | [🔗 **distributed-ids**](https://github.com/shivareddy42/distributed-ids) | Distributed IoT Intrusion Detection with federated ML, MQTT messaging, and Streamlit dashboard |
 | [🔗 **ml-training-profiler**](https://github.com/shivareddy42/ml-training-profiler) | GPU training pipeline profiler with AMP, torch.compile, and automated optimization benchmarks |

@@ -28,7 +28,7 @@ const shiva = {
 };
 ```
 
-> I build **backend systems and cloud infrastructure** that handle real production load, the kind where a 50ms regression means thousands of failed requests. I've designed REST APIs serving 2M+ requests/day, cut data pipeline latency by 54%, and shipped enterprise integrations across ServiceNow, SAP, and OneTrust. Currently building integration systems at BeOne Medicines while finishing my MS at UCF.
+> I build **ML and backend systems** that handle real production load, the kind where a 50ms regression means thousands of failed requests. I've designed REST APIs serving 2M+ requests/day, cut data pipeline latency by 54%, and shipped enterprise integrations across ServiceNow, SAP, and OneTrust. Currently building integration systems at BeOne Medicines while finishing my MS at UCF.
 >
 > I care about clean architecture, observability, and code that doesn't wake people up at night.
 

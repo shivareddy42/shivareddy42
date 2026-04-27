@@ -34,7 +34,7 @@ const shiva = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## &nbsp;⚡ Tech Stack
+## &nbsp; Tech Stack
 
 <div align="center">
 
@@ -98,7 +98,7 @@ const shiva = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## &nbsp;📊 GitHub Analytics
+## &nbsp; GitHub Analytics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=shivareddy42&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58&timezone=America/New_York" alt="GitHub Streak"/>
@@ -112,7 +112,7 @@ const shiva = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## &nbsp;🏗️ Featured Work
+## &nbsp; Featured Work
 
 <div align="center">
 

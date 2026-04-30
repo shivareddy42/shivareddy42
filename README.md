@@ -24,7 +24,7 @@ const shiva = {
     education  : "MS Computer Science @ UCF | 4.0 GPA | May 2026",
     current    : ["Software Developer @ BeOne Medicines", "Graduate TA @ UCF"],
     previous   : "Software Engineer @ Baantics Solutions",
-    interests  : ["backend systems", "cloud infrastructure", "distributed computing", "developer tools"],
+    interests  : ["machine learning", "backend systems", "cloud infrastructure", "distributed computing", "developer tools"],
 };
 ```
 

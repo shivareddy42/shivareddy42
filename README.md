@@ -216,7 +216,7 @@ The headline result is a frontier lab API model approving a **$62,000 purchase o
 
 <div align="center">
 
-<p>Based in Oviedo, Florida. Open to roles in machine learning engineering and AI safety.<br/>
+<p>Open to roles in machine learning engineering and AI safety.<br/>
 Happy to talk about agent safety, model serving, or what breaks at 2am.</p>
 
 <a href="mailto:shivareddy761005@gmail.com"><img src="https://img.shields.io/badge/shivareddy761005@gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>

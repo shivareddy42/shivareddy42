@@ -43,7 +43,7 @@ I care about clean abstractions, measurable safety properties, and code that hol
 Building machine learning and deep learning pipelines that ship to internal product surfaces. Working across model training, evaluation harnesses, inference orchestration, and the data infrastructure that feeds them.
 
 ### Graduate Teaching Assistant
-*University of Central Florida · August 2025 to Present*
+*University of Central Florida · August 2025 to May 2026*
 
 Supporting Dr. Ali Alkinoon's graduate Computer Networks course. Previously a teaching assistant for CAP5151 (IoT Security).
 

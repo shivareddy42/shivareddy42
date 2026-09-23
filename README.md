@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Shiva Reddy Peddireddy — build, analyze, test, iterate" />
+<img src="./assets/profile-hero.svg" width="100%" alt="Shiva Reddy Peddireddy: build, analyze, test, iterate" />
 
 <br/>
 
@@ -44,7 +44,7 @@ question → model → build → measure
 
 ## Featured work
 
-### 01 — TRUSTFALL · when systems compose, risk composes too
+### 01 · TRUSTFALL · when systems compose, risk composes too
 
 <a href="https://github.com/shivareddy42/trustfall-poc">
   <img src="https://raw.githubusercontent.com/shivareddy42/trustfall-poc/main/visuals/renders/01-hero.png" width="100%" alt="TRUSTFALL benchmark" />
@@ -76,7 +76,7 @@ The interesting part is not just whether something fails, but **how far the fail
 
 <br/>
 
-### 02 — Flyway Surfer · a tiny fly, a giant swatter, and 26,544 edges
+### 02 · Flyway Surfer · a tiny fly, a giant swatter, and 26,544 edges
 
 <table>
 <tr>
@@ -109,7 +109,7 @@ The controller receives game observations, stimulates selected sensory neurons, 
 
 <br/>
 
-### 03 — Systems that have to perform
+### 03 · Systems that have to perform
 
 <table>
 <tr>
@@ -140,7 +140,7 @@ The included benchmark reaches **2,847 req/s** on the documented dummy-model tes
 
 <br/>
 
-### 04 — Analysis where the answer can be “the hypothesis was wrong”
+### 04 · Analysis where the answer can be “the hypothesis was wrong”
 
 <table>
 <tr>
@@ -167,7 +167,7 @@ That is the kind of result I like: clear question, reproducible method, and no n
 
 <br/>
 
-### 05 — Different problem, different tool
+### 05 · Different problem, different tool
 
 <table>
 <tr>
@@ -222,16 +222,16 @@ There are also smaller experiments across generative interfaces, distributed int
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivareddy42/shivareddy42/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivareddy42/shivareddy42/output/github-snake.svg" />
-  <img alt="Contribution activity" src="https://raw.githubusercontent.com/shivareddy42/shivareddy42/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img alt="Contribution activity" src="./assets/github-snake-dark.svg" width="100%" />
 </picture>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivareddy42&bg_color=00000000&color=94A3B8&line=8B5CF6&point=22D3EE&area=true&area_color=7C3AED&hide_border=true&custom_title=Recent%20activity" width="100%" alt="Recent GitHub activity" />
+<a href="https://github.com/shivareddy42?tab=overview&from=2026-01-01&to=2026-12-31">View contribution activity on GitHub →</a>
 
-<br/>
+<br/><br/>
 
 <sub>Curiosity is the through-line. The tools change with the problem.</sub>
 

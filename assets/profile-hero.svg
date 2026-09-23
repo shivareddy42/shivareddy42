@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070A12"/>
+      <stop offset="0.5" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#120A1F"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="120" y1="44" x2="1080" y2="316" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0.85"/>
+      <stop offset="0.5" stop-color="#06B6D4" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0.35"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="45"/></filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="985" cy="82" r="150" fill="#7C3AED" fill-opacity="0.22" filter="url(#blur)"/>
+  <circle cx="1050" cy="285" r="165" fill="#06B6D4" fill-opacity="0.14" filter="url(#blur)"/>
+  <path d="M90 274C250 214 322 310 492 236C655 165 712 254 874 176C985 122 1041 144 1115 112" stroke="url(#glow)" stroke-width="3" stroke-linecap="round" stroke-opacity="0.8"/>
+  <circle cx="492" cy="236" r="6" fill="#8B5CF6"/>
+  <circle cx="874" cy="176" r="6" fill="#22D3EE"/>
+  <circle cx="1115" cy="112" r="6" fill="#4ADE80"/>
+  <text x="90" y="118" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="-1.2">Shiva Reddy Peddireddy</text>
+  <text x="92" y="160" fill="#CBD5E1" font-family="JetBrains Mono,Consolas,monospace" font-size="19">build  /  analyze  /  test  /  iterate</text>
+  <text x="92" y="205" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20">I like problems that reward curiosity, evidence, and careful systems thinking.</text>
+  <g font-family="JetBrains Mono,Consolas,monospace" font-size="14">
+    <rect x="90" y="246" width="120" height="34" rx="17" fill="#7C3AED" fill-opacity="0.16" stroke="#8B5CF6" stroke-opacity="0.45"/>
+    <text x="113" y="268" fill="#DDD6FE">systems</text>
+    <rect x="222" y="246" width="102" height="34" rx="17" fill="#0891B2" fill-opacity="0.14" stroke="#22D3EE" stroke-opacity="0.42"/>
+    <text x="246" y="268" fill="#CFFAFE">data</text>
+    <rect x="336" y="246" width="138" height="34" rx="17" fill="#16A34A" fill-opacity="0.12" stroke="#4ADE80" stroke-opacity="0.38"/>
+    <text x="357" y="268" fill="#DCFCE7">experiments</text>
+    <rect x="486" y="246" width="116" height="34" rx="17" fill="#334155" fill-opacity="0.35" stroke="#94A3B8" stroke-opacity="0.28"/>
+    <text x="510" y="268" fill="#E2E8F0">security</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="27.5" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>
